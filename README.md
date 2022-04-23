@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdamWandoch
-- 👀 I’m interested in back-end engineering and microservices architecture
+- 👀 I’m particularly interested in back-end engineering
 - 🌱 I’m currently learning Java, Spring
-- 💞️ I’m looking to collaborate on back-end java projects
-- 📫 How to reach me linkedin.com/in/adam-wandoch-9400b322a
+- 💞️ I’m looking to collaborate on any entry-mid level projects
+- 📫 How to reach me linkedin.com/in/adam-wandoch
 
 <!---
 AdamWandoch/AdamWandoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamWandoch
-- 👀 I’m particularly interested in back-end engineering
-- 🌱 I’m currently learning Java, Spring
+- 👀 I’m interested in software engineering, particularly web development
+- 🌱 I’m currently learning Java, Spring + HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on any entry-mid level projects
 - 📫 How to reach me linkedin.com/in/adam-wandoch
 - 📫 Or just drop an email dev@adamwandoch.com

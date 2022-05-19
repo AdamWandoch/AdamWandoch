@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any entry-mid level projects
 - 📫 How to reach me linkedin.com/in/adam-wandoch
 - 📫 Or just drop an email dev@adamwandoch.com
-- 📫 visit my website [here]("http://www.adamwandoch.com")!
+- 📫 visit my website [here](http://www.adamwandoch.com)!
 
 <!---
 AdamWandoch/AdamWandoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamWandoch
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering, photography, sales and marketing
 - 🌱 Current grind: HTML/CSS/JavaScript + React and Java + Spring
 - 💞️ I’m looking to collaborate on any front-end projects
-- 📫 How to reach me linkedin.com/in/adam-wandoch
+- 📫 How to reach me [linkedin.com/in/adam-wandoch](https://www.linkedin.com/in/adam-wandoch/)
 - 📫 Or just drop an email wandoch.adam@gmail.com
